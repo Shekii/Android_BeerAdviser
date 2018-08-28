@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera.any
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:5:5-6:44
+	android:required
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:6:19-42
+	android:name
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:5:19-61
+application
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:8:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harry\.android\build-cache\fb4ad674c2e84a058f6145ffd974e322362013e8\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:14:9-40
+activity#learn.harry.beeradviser.FindBeerActivity
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:15:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Harry\.android\build-cache\fb4ad674c2e84a058f6145ffd974e322362013e8\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\AndroidManifest.xml

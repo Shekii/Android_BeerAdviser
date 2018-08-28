@@ -1,0 +1,7 @@
+#Thu Jul 19 15:09:12 CEST 2018
+base.0=C\:\\Users\\Harry\\Documents\\Android_Development\\BeerAdviser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_c357cc8c6e5c0532a13ceec1e26b363c0e6f9c75
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Harry\\Documents\\Android_Development\\BeerAdviser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b3af19ea412e671c33d5850f2d509b289999e5ef\\classes.dex
+base.1=C\:\\Users\\Harry\\Documents\\Android_Development\\BeerAdviser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b3af19ea412e671c33d5850f2d509b289999e5ef
+file.0=C\:\\Users\\Harry\\Documents\\Android_Development\\BeerAdviser\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\constraint-layout-solver-1.0.2_c357cc8c6e5c0532a13ceec1e26b363c0e6f9c75\\classes.dex

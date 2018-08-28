@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Beer Adviser</string>
+    <string name="btnFindBeer">Find Beer!</string>
+    <string name="txtBeerDefault">No beers selected</string>
+
+    <string-array name="listBeerColorArr">
+        <item>Amber</item>
+        <item>Light</item>
+        <item>Brown</item>
+        <item>Dark</item>
+    </string-array>
+</resources>

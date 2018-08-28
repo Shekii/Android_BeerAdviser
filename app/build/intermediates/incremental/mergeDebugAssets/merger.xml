@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output"><source path="C:\Users\Harry\.android\build-cache\fb4ad674c2e84a058f6145ffd974e322362013e8\output\assets"/></dataSet><dataSet config="main"><source path="C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\main\assets"/><source path="C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Harry\Documents\Android_Development\BeerAdviser\app\src\debug\assets"/></dataSet></merger>
